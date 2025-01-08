@@ -1,13 +1,13 @@
 # CODSOFT-TASK1
-Name- HARSHITA SINHA
+Name- Harshvardhan
 
 Company- CODSOFT
 
-ID- CS24NY355812
+ID- CS24NY356881
 
 Domain- Java Programming
 
-Duration- 15 December 2024 to 15 January 2025
+Duration- 20 December 2024 to 20 January 2025
 
 # Overview of the Project
 
